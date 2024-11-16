@@ -1,0 +1,5 @@
+--outputdir=D:\MaHyaLabs\PyDev\Robot-Framework-UI-Automation\Reports\
+--logtitle=Smoke Test Log
+--reporttitle=Smoke Test Report
+--name=Sample Test Execution
+--output=output.json    output.xml
