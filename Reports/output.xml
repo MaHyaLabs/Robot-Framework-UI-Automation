@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 7.1.1 (Python 3.12.7 on win32)" generated="2024-11-16T22:14:40.711180" rpa="false" schemaversion="5">
+<suite id="s1" name="SampleTests" source="D:\MaHyaLabs\PyDev\Robot-Framework-UI-Automation\Tests\SampleTests.robot">
+<test id="s1-t1" name="Open Insurance Application test" line="10">
+<kw name="log value" owner="common">
+<kw name="Log To Console" owner="BuiltIn">
+<arg>Hello</arg>
+<doc>Logs the given message to the console.</doc>
+<status status="PASS" start="2024-11-16T22:14:40.729523" elapsed="0.000000"/>
+</kw>
+<status status="PASS" start="2024-11-16T22:14:40.729523" elapsed="0.000000"/>
+</kw>
+<status status="PASS" start="2024-11-16T22:14:40.729523" elapsed="0.000000"/>
+</test>
+<status status="PASS" start="2024-11-16T22:14:40.711180" elapsed="0.031849"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" skip="0" id="s1" name="SampleTests">SampleTests</stat>
+</suite>
+</statistics>
+<errors>
+<msg time="2024-11-16T22:14:40.729523" level="WARN">Imported resource file 'D:\MaHyaLabs\PyDev\Robot-Framework-UI-Automation\Resources\TestData\variables.robot' is empty.</msg>
+</errors>
+</robot>

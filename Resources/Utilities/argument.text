@@ -2,4 +2,4 @@
 --logtitle=Smoke Test Log
 --reporttitle=Smoke Test Report
 --name=Sample Test Execution
---output=output.json    output.xml
+--output=output.json output.xml
